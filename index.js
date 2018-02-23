@@ -1,4 +1,6 @@
+var a =80,
+    b= 1;
+function add(a+b){
+  return`a+b'
+}
 add(a,b)
-subtract(60,40)
-multiply(2,3.4)
-divide(5.0,2.5)
